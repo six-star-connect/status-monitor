@@ -1,7 +1,7 @@
-url: $n8n_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-05T09:22:49.387Z
+url: https://n8n.sixstar.click
+status: up
+code: 200
+responseTime: 622
+lastUpdated: 2024-09-05T09:24:16.682Z
 startTime: 2024-09-05T07:12:12.371Z
 generator: Upptime <https://github.com/upptime/upptime>

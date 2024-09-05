@@ -3,17 +3,17 @@ repo: status-monitor
 
 sites:
   - name: Manage
-    url: $manage_URL
+    url: https://manage.sixstar.support
   - name: API
-    url: $api_URL
+    url: https://api.sixstar.click
   - name: N8N
-    url: $n8n_URL
+    url: https://n8n.sixstar.click
   - name: Six Star Global
-    url: $global_URL
+    url: https://sixstar.global
   - name: ITGlue
-    url: $itglue_URL
+    url: https://six-star.eu.itglue.com
   - name: 3CX
-    url: $phones_url
+    url: https://sixstar.3cx.uk:5001
    
 
 status-website:

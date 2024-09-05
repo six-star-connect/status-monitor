@@ -18,6 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status-monitor
   logoUrl: https://raw.githubusercontent.com/six-star-connect/status-monitor/master/assets/assets/upptime-icon.svg
+  favicon: https://raw.githubusercontent.com/six-star-connect/status-monitor/master/assets/assets/favicon.ico
   themeUrl: https://raw.githubusercontent.com/six-star-connect/status-monitor/master/assets/assets/my-custom-theme.css
   name: Six Star Status Monitor
   introTitle: "**Six Star** Status Monitor keeps you updated with real-time service performance and availability."

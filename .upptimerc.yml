@@ -1,36 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: six-star-connect # Your GitHub organization or username, where this repository lives
+repo: status-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Manage
+    url: https://manage.sixstar.support
+  - name: API
+    url: https://api.sixstar.click
+  - name: N8N
+    url: https://n8n.sixstar.click
+  - name: Six Star Global
+    url: https://sixstar.global
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /status-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Six Star Status Monitor
+  introTitle: "**Six Star** Status Monitor keeps you updated with real-time service performance and availability."
+  introMessage: Welcome to the Six Star Status Monitor, your go-to platform for up-to-the-minute updates on the status and reliability of our services. Our system provides live data, ensuring you're always in the know about any service interruptions or maintenance schedules. Stay informed and confident with Six Star's top-tier performance monitoring.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Manage
+      href: https://manage.sixstar.support
+    - title: Six Star Global
+      href: https://sixstar.global
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

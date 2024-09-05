@@ -16,7 +16,8 @@ sites:
   - name: 3CX
     url: https://sixstar.3cx.uk:5001
   - name: Dev Test
-    url: https://dev-click.com
+    # url: https://dev-click.com
+    url: https://google.co.uk
    
 
 status-website:

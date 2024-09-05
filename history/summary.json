@@ -113,18 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.co.uk.ico",
     "slug": "dev-test",
     "status": "up",
-    "uptime": "76.49%",
-    "uptimeDay": "76.49%",
-    "uptimeWeek": "76.49%",
-    "uptimeMonth": "76.49%",
-    "uptimeYear": "76.49%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 284,
     "timeWeek": 284,
     "timeMonth": 284,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2024-09-05": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]

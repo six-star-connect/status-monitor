@@ -1,7 +1,7 @@
-url: $manage_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-05T09:22:44.206Z
+url: https://manage.sixstar.support
+status: up
+code: 200
+responseTime: 568
+lastUpdated: 2024-09-05T09:24:09.924Z
 startTime: 2024-09-05T07:12:10.017Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
-url: https://sixstar.global
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2024-09-05T09:17:23.477Z
+url: $global_URL
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-05T09:22:51.700Z
 startTime: 2024-09-05T07:12:13.252Z
 generator: Upptime <https://github.com/upptime/upptime>

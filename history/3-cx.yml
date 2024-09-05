@@ -1,7 +1,7 @@
-url: $phones_url
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-05T09:23:00.427Z
+url: https://sixstar.3cx.uk:5001
+status: up
+code: 200
+responseTime: 714
+lastUpdated: 2024-09-05T09:24:26.650Z
 startTime: 2024-09-05T07:47:14.514Z
 generator: Upptime <https://github.com/upptime/upptime>

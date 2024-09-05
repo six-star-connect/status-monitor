@@ -11,6 +11,11 @@ sites:
     url: https://n8n.sixstar.click
   - name: Six Star Global
     url: https://sixstar.global
+  - name: ITGlue
+    url: https://six-star.eu.itglue.com
+  - name: 3CX
+    url: https://sixstar.3cx.uk:5001
+   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

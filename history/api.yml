@@ -1,7 +1,7 @@
-url: $api_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-05T09:22:47.136Z
+url: https://api.sixstar.click
+status: up
+code: 200
+responseTime: 748
+lastUpdated: 2024-09-05T09:24:13.701Z
 startTime: 2024-09-05T07:12:10.947Z
 generator: Upptime <https://github.com/upptime/upptime>

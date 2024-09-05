@@ -29,7 +29,7 @@ status-website:
   introMessage: Welcome to the Six Star Status Monitor, your go-to platform for up-to-the-minute updates on the status and reliability of our services. Our system provides live data, ensuring you're always in the know about any service interruptions or maintenance schedules. Stay informed and confident with Six Star's top-tier performance monitoring.
   navbar:
     - title: Status
-      href: /
+      href: /status-monitor
     - title: Manage
       href: https://manage.sixstar.support
     - title: Six Star Global

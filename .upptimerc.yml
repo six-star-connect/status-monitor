@@ -27,8 +27,6 @@ status-website:
   theme: light
   css: "footer { display: none !important }"
   navbar:
-    - title: Status
-      href: /status-monitor
     - title: Manage
       href: https://manage.sixstar.support
     - title: Six Star Global

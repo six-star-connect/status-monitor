@@ -17,7 +17,8 @@ sites:
    
 
 status-website:
-  baseUrl: /status-monitor
+  cname: status.sixstar.global
+  # baseUrl: /status-monitor
   logoUrl: https://raw.githubusercontent.com/six-star-connect/status-monitor/master/assets/assets/upptime-icon.svg
   favicon: https://raw.githubusercontent.com/six-star-connect/status-monitor/master/assets/assets/favicon.ico
   name: Six Star Status Monitor

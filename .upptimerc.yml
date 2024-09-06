@@ -32,3 +32,12 @@ status-website:
       href: https://manage.sixstar.support
     - title: Six Star Global
       href: https://sixstar.global
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"

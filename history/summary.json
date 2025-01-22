@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 282,
-    "timeWeek": 251,
+    "timeDay": 289,
+    "timeWeek": 252,
     "timeMonth": 250,
     "timeYear": 242,
     "dailyMinutesDown": {}
@@ -24,16 +24,17 @@
     "slug": "api",
     "status": "up",
     "uptime": "95.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.64%",
     "time": 635,
-    "timeDay": 642,
+    "timeDay": 633,
     "timeWeek": 640,
     "timeMonth": 643,
     "timeYear": 635,
     "dailyMinutesDown": {
+      "2025-01-22": 2,
       "2024-10-28": 646,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -50,8 +51,8 @@
     "slug": "n8-n",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 402,
@@ -60,6 +61,7 @@
     "timeMonth": 399,
     "timeYear": 402,
     "dailyMinutesDown": {
+      "2025-01-22": 2,
       "2024-10-22": 28
     }
   },
@@ -75,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 446,
-    "timeDay": 810,
-    "timeWeek": 740,
-    "timeMonth": 796,
+    "timeDay": 757,
+    "timeWeek": 736,
+    "timeMonth": 797,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2024-12-16": 66
@@ -90,16 +92,18 @@
     "slug": "it-glue",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1120,
-    "timeDay": 1079,
+    "timeDay": 1067,
     "timeWeek": 1097,
     "timeMonth": 1140,
     "timeYear": 1120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 2
+    }
   },
   {
     "name": "3CX",
@@ -113,8 +117,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 588,
-    "timeWeek": 562,
+    "timeDay": 585,
+    "timeWeek": 563,
     "timeMonth": 570,
     "timeYear": 529,
     "dailyMinutesDown": {}

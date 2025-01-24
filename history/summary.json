@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 224,
-    "timeWeek": 252,
+    "timeDay": 217,
+    "timeWeek": 251,
     "timeMonth": 248,
     "timeYear": 242,
     "dailyMinutesDown": {}
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sixstar.click.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "95.69%",
+    "uptime": "95.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.69%",
+    "uptimeYear": "95.70%",
     "time": 635,
-    "timeDay": 633,
-    "timeWeek": 630,
-    "timeMonth": 646,
+    "timeDay": 695,
+    "timeWeek": 640,
+    "timeMonth": 647,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2024-10-28": 646,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 402,
-    "timeDay": 368,
-    "timeWeek": 384,
+    "time": 401,
+    "timeDay": 374,
+    "timeWeek": 385,
     "timeMonth": 399,
-    "timeYear": 402,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2024-10-22": 28
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 450,
-    "timeDay": 833,
-    "timeWeek": 759,
+    "time": 451,
+    "timeDay": 811,
+    "timeWeek": 770,
     "timeMonth": 798,
-    "timeYear": 450,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2024-12-16": 66
     }
@@ -95,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1120,
-    "timeDay": 1098,
-    "timeWeek": 1093,
+    "timeDay": 1147,
+    "timeWeek": 1098,
     "timeMonth": 1134,
     "timeYear": 1120,
     "dailyMinutesDown": {}
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 530,
-    "timeDay": 561,
-    "timeWeek": 560,
-    "timeMonth": 570,
+    "timeDay": 554,
+    "timeWeek": 559,
+    "timeMonth": 569,
     "timeYear": 530,
     "dailyMinutesDown": {}
   }
